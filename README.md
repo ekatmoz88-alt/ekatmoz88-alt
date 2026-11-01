@@ -4,7 +4,7 @@ I create clear, structured, and user-focused technical documentation for softwar
 
 My focus is on API documentation, documentation engineering, and Docs-as-Code workflows.
 
-**[View live API documentation portal](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/)**
+**[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)**
 
 ## What I do
 
@@ -28,7 +28,7 @@ My focus is on API documentation, documentation engineering, and Docs-as-Code wo
 ### API Documentation Portfolio
 A documentation portal demonstrating API documentation, OpenAPI specifications, validation, and automated publishing.
 
-[View live portal](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/) · [View repository](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
+[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/) · [View repository](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
 
 ### Technical Writing Portfolio
 A simulated Orders API project featuring API references, developer guides, error handling, webhooks, and documentation workflows.
