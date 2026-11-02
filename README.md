@@ -28,3 +28,8 @@ A Docs-as-Code automation example with GitHub Actions, Spectral OpenAPI validati
 Source-based C++ component documentation covering architecture, native interface abstraction, navigation item lifecycle, focus management, container geometry, batch updates, and compatibility behavior.
 
 [GitHub Repository](https://github.com/ekatmoz88-alt/cobalt-ui-navigation-docs)
+
+### 6. [UMMS Documentation — Public Sample](https://github.com/ekatmoz88-alt/umms-docs)
+Public API and client documentation samples, including an HTML documentation page. NDA-restricted materials are excluded from the public sample.
+
+[GitHub Repository](https://github.com/ekatmoz88-alt/umms-docs)
