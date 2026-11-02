@@ -1,74 +1,49 @@
 # Hi, I'm Kate Motsar 👋
 
-**Technical Writer · API Documentation · Documentation Engineering**
+**Technical Writer | API Documentation | Documentation Engineering**
 
-I turn complex software and API behavior into clear, structured documentation that helps developers understand, integrate, and use products.
+I create structured, developer-focused documentation that helps people understand, integrate, and use software products and APIs.
 
-My portfolio focuses on **REST APIs, OpenAPI 3.1, developer documentation, and Docs-as-Code workflows**. I work with documentation structure as well as the practical processes behind maintaining and publishing it.
+My portfolio focuses on REST APIs, OpenAPI specifications, developer guides, documentation architecture, and Docs-as-Code workflows.
 
-[![API documentation portfolio](https://img.shields.io/badge/Portfolio-API%20Documentation-2563eb?style=flat-square)](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github)](https://github.com/ekatmoz88-alt)
+**[Explore my API documentation portfolio](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)**
 
-## What I work on
+## Core skills
 
-- **API reference documentation:** endpoints, parameters, schemas, authentication, and response examples.
-- **Developer guides:** onboarding, first requests, pagination, integrations, and troubleshooting.
-- **OpenAPI specifications:** authoring and maintaining structured API contracts with YAML and OpenAPI 3.1.
-- **Errors and webhooks:** consistent error guidance, event payloads, signature verification, and retry behavior.
-- **Documentation architecture:** information architecture, navigation, reusable structures, and localization.
-- **Docs-as-Code:** version control, review workflows, validation, and automated publishing.
-
-## Tools & technologies
-
-| Area | Tools |
-|---|---|
-| API documentation | OpenAPI 3.1, Swagger, Redocly |
-| Documentation quality | Spectral, review checklists |
-| Writing & formats | Markdown, YAML, HTML, CSS |
-| Docs-as-Code | Git, GitHub, GitHub Actions |
-| Publishing | Jekyll, GitHub Pages |
-| API exploration | Postman, cURL |
-| Working environment | Ubuntu, Bash |
+- **API documentation:** REST, OpenAPI 3.1, endpoint references, request/response examples, schemas, error handling, webhooks
+- **Developer experience:** onboarding guides, authentication and pagination tutorials, integration instructions
+- **Documentation engineering:** Markdown, Git, GitHub, GitHub Actions, Jekyll
+- **Quality and validation:** Redocly CLI, Spectral, Postman, documentation QA checklists
+- **Additional experience:** SOAP concepts and integration documentation; workflow and security documentation
 
 ## Featured projects
 
-### 1. API Documentation Portfolio
+### [API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
+API documentation and documentation-engineering showcase featuring OpenAPI 3.1 specifications, validation workflows, SOAP case studies, and automated publishing.
 
-A documentation portal demonstrating API specifications, reference structure, SOAP integration case studies, validation, and automated publishing.
+[View live API documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)
 
-- [Open the live API documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)
-- [Browse the source repository](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
+### [Technical Writing Portfolio](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
+A simulated Orders API project with an OpenAPI contract, API reference, developer guide, error handling, webhook documentation, and English/Russian materials.
 
-### 2. Technical Writing Portfolio
+[View live portfolio](https://ekatmoz88-alt.github.io/technical-writing-portfolio/)
 
-A bilingual (English/Russian) documentation set for a simulated Orders API, from its OpenAPI contract to developer onboarding, error handling, and webhook guides.
+### [Fintech Documentation Demo](https://github.com/ekatmoz88-alt/fintech-docs-demo)
+A fictional fintech/onramp case study covering user and operator workflows, KYC processes, PII classification, and audit-log requirements.
 
-- [Open the live portfolio](https://ekatmoz88-alt.github.io/technical-writing-portfolio/)
-- [Browse the source repository](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
-
-### 3. Fintech Documentation Demo
-
-A fictional fintech case study covering operator workflows, KYC/onboarding, PII classification, masking rules, and audit-log requirements.
-
-- [Browse the source repository](https://github.com/ekatmoz88-alt/fintech-docs-demo)
-
-### 4. GitHub Profile Dashboard
-
-A React and Vite dashboard that presents GitHub profile information, repository activity, and language statistics.
-
-- [View the dashboard repository](https://github.com/ekatmoz88-alt/github-profile-dashboard-vite)
+### [GitHub Profile Dashboard](https://github.com/ekatmoz88-alt/github-profile-dashboard-vite)
+A React and Vite dashboard that displays public GitHub profile data, repository statistics, programming languages, and recent activity.
 
 ## How I approach documentation
 
-- **Developer-first:** organize information around the tasks readers need to complete.
-- **Spec-first:** use structured API contracts as a foundation for accurate reference content.
-- **Consistent:** apply reusable patterns, terminology, and examples.
-- **Maintainable:** keep documentation versioned, reviewable, and testable.
-- **Transparent:** clearly distinguish demo scenarios from live production services.
+- **Developer-first:** organize content around real user tasks and integration journeys.
+- **Structured:** use clear information architecture, consistent terminology, and reusable patterns.
+- **Accurate:** treat API contracts and examples as essential parts of documentation quality.
+- **Maintainable:** keep documentation versioned, reviewable, and validated with Docs-as-Code practices.
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kate-motsar-b56974267/)
 - [GitHub](https://github.com/ekatmoz88-alt)
 
-*Open to Technical Writer, API Technical Writer, and Documentation Engineer opportunities.*
+*Interested in Technical Writer, API Technical Writer, and Documentation Engineer opportunities.*
