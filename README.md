@@ -1,35 +1,48 @@
-# Technical Writing Portfolio
+# Hi, I'm a Technical Writer 👋
 
-Selected documentation projects covering API documentation, developer guides, Docs-as-Code workflows, and source-based technical documentation.
+I create clear, structured, and user-focused technical documentation for software products and APIs.
 
-## Projects
+My focus is on API documentation, documentation engineering, and Docs-as-Code workflows.
 
-### 1. [API Documentation Portfolio V2](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)
-OpenAPI 3.1 specifications, API reference materials, SOAP case studies, documentation QA, and automated publishing.
+**[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)**
 
-[GitHub Repository](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
+## What I do
 
-### 2. [Technical Writing Portfolio — Orders API](https://ekatmoz88-alt.github.io/technical-writing-portfolio/)
-A simulated REST API documentation project with an OpenAPI contract, API reference, developer onboarding, error handling, webhooks, and English/Russian materials.
+- REST API documentation
+- OpenAPI 3.1 specifications
+- Developer guides and API references
+- Error handling and webhook documentation
+- Documentation portals: structure, navigation, and publishing
+- Documentation quality checks and automation
 
-[GitHub Repository](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
+## Tools & Technologies
 
-### 3. [Fintech Documentation Demo](https://github.com/ekatmoz88-alt/fintech-docs-demo)
-A fictional fintech/onramp case study covering user and operator journeys, KYC workflows, PII classification, and audit-log requirements.
+- **API & Documentation:** OpenAPI, Swagger, Redocly, Spectral, Markdown
+- **Docs-as-Code:** Git, GitHub, GitHub Actions, Jekyll
+- **API Testing:** Postman
+- **AI-assisted development:** ChatGPT, Claude, GitHub Copilot, Cursor
+- **Environment:** Ubuntu, Bash
 
-[GitHub Repository](https://github.com/ekatmoz88-alt/fintech-docs-demo)
+## Featured Projects
 
-### 4. [Technical Writing Workflows](https://ekatmoz88-alt.github.io/technical-writing-workflows/)
-A Docs-as-Code automation example with GitHub Actions, Spectral OpenAPI validation, Markdown linting, and automated link checking.
+### API Documentation Portfolio
+A documentation portal demonstrating API documentation, OpenAPI specifications, validation, and automated publishing.
 
-[GitHub Repository](https://github.com/ekatmoz88-alt/technical-writing-workflows)
+[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/) · [View repository](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
 
-### 5. [Cobalt UI Navigation Documentation](https://ekatmoz88-alt.github.io/cobalt-ui-navigation-docs/)
-Source-based C++ component documentation covering architecture, native interface abstraction, navigation item lifecycle, focus management, container geometry, batch updates, and compatibility behavior.
+### Technical Writing Portfolio
+A simulated Orders API project featuring API references, developer guides, error handling, webhooks, and documentation workflows.
 
-[GitHub Repository](https://github.com/ekatmoz88-alt/cobalt-ui-navigation-docs)
+[View repository](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
 
-### 6. [UMMS Documentation — Public Sample](https://github.com/ekatmoz88-alt/umms-docs)
-Public API and client documentation samples, including an HTML documentation page. NDA-restricted materials are excluded from the public sample.
+### Fintech Documentation Demo
+A simulated fintech project with user flows, KYC/onboarding documentation, audit logs, and data classification.
 
-[GitHub Repository](https://github.com/ekatmoz88-alt/umms-docs)
+[View repository](https://github.com/ekatmoz88-alt/fintech-docs-demo)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kate-motsar-b56974267/)
+- [GitHub](https://github.com/ekatmoz88-alt)
+
+*Open to Technical Writer, API Technical Writer, and Documentation Engineer opportunities.*
