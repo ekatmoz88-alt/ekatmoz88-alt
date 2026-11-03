@@ -24,7 +24,3 @@ A Docs-as-Code automation example with GitHub Actions, Spectral OpenAPI validati
 
 [GitHub Repository](https://github.com/ekatmoz88-alt/technical-writing-workflows)
 
-### 5. [Cobalt UI Navigation Documentation](https://ekatmoz88-alt.github.io/cobalt-ui-navigation-docs/)
-Source-based C++ component documentation covering architecture, native interface abstraction, navigation item lifecycle, focus management, container geometry, batch updates, and compatibility behavior.
-
-[GitHub Repository](https://github.com/ekatmoz88-alt/cobalt-ui-navigation-docs)
