@@ -4,7 +4,9 @@ I create clear, structured, and user-focused technical documentation for softwar
 
 My focus is on API documentation, documentation engineering, and Docs-as-Code workflows.
 
-**[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)**
+**[Open the interactive portfolio dashboard](https://github-profile-dashboard-vite.vercel.app/)** · [GitHub Pages portfolio hub](https://ekatmoz88-alt.github.io/)
+
+[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)
 
 ## What I do
 
