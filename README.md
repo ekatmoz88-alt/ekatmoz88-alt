@@ -33,16 +33,26 @@ A documentation portal demonstrating API documentation, OpenAPI specifications, 
 ### Technical Writing Portfolio
 A simulated Orders API project featuring API references, developer guides, error handling, webhooks, and documentation workflows.
 
-[View repository](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
+[View live site](https://ekatmoz88-alt.github.io/technical-writing-portfolio/) · [View repository](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
 
 ### Fintech Documentation Demo
 A simulated fintech project with user flows, KYC/onboarding documentation, audit logs, and data classification.
 
-[View repository](https://github.com/ekatmoz88-alt/fintech-docs-demo)
+[View live site](https://ekatmoz88-alt.github.io/fintech-docs-demo/) · [View repository](https://github.com/ekatmoz88-alt/fintech-docs-demo)
+
+### Technical Writing Workflows
+A Docs-as-Code pipeline with automated OpenAPI validation, Markdown linting and link checking.
+
+[View live site](https://ekatmoz88-alt.github.io/technical-writing-workflows/) · [View repository](https://github.com/ekatmoz88-alt/technical-writing-workflows)
+
+### ADP201P4 Hardware Documentation
+Source-based documentation for a DSP signal-processing module, including system architecture and hardware interfaces.
+
+[View live site](https://ekatmoz88-alt.github.io/adp201p4-hardware-spec/) · [View repository](https://github.com/ekatmoz88-alt/adp201p4-hardware-spec)
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kate-motsar-b56974267/)
+- [LinkedIn](https://www.linkedin.com/in/ekatmoz88/)
 - [GitHub](https://github.com/ekatmoz88-alt)
 
 *Open to Technical Writer, API Technical Writer, and Documentation Engineer opportunities.*
