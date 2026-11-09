@@ -1,60 +1,36 @@
-# Hi, I'm a Technical Writer 👋
+# Hi, I'm Kate Motsar 👋
 
-I create clear, structured, and user-focused technical documentation for software products and APIs.
+**Senior Technical Writer | API Documentation | Developer Documentation | Docs-as-Code**
 
-My focus is on API documentation, documentation engineering, and Docs-as-Code workflows.
+I create structured, developer-focused documentation for software products, APIs, and enterprise systems. My work combines technical writing with source-code analysis, systems analysis, API contracts, data models, and documentation engineering.
 
-**[Open the interactive portfolio dashboard](https://github-profile-dashboard-vite.vercel.app/)** · [GitHub Pages portfolio hub](https://ekatmoz88-alt.github.io/) · [Bilingual repository audit](https://ekatmoz88-alt.github.io/github-profile-dashboard-vite/portfolio-audit.html)
+## Core expertise
 
-[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/)
+- REST API documentation and OpenAPI 3.1
+- SOAP integrations, WSDL, XML, and data exchange
+- Developer guides, API references, and integration documentation
+- Source-code analysis and software architecture documentation
+- SQL, Oracle, relational data models, and database documentation
+- Docs-as-Code: Markdown, Git, GitHub, CI/CD
+- Documentation QA and API validation with Postman, Spectral, and Vale
 
-## What I do
+## Portfolio
 
-- REST API documentation
-- OpenAPI 3.1 specifications
-- Developer guides and API references
-- Error handling and webhook documentation
-- Documentation portals: structure, navigation, and publishing
-- Documentation quality checks and automation
+**[Open the Technical Documentation Dashboard](https://github-profile-dashboard-vite.vercel.app/)** — the central portfolio index with separate project cards and links to the relevant repositories and documentation.
 
-## Tools & Technologies
+### Selected projects
 
-- **API & Documentation:** OpenAPI, Swagger, Redocly, Spectral, Markdown
-- **Docs-as-Code:** Git, GitHub, GitHub Actions, Jekyll
-- **API Testing:** Postman
-- **AI-assisted development:** ChatGPT, Claude, GitHub Copilot, Cursor
-- **Environment:** Ubuntu, Bash
+- **[ARM Descriptor — Technical Documentation](https://github.com/ekatmoz88-alt/descriptor-arm-spec)** — a separate documentation workstream for the ARM Descriptor project.
+- **[FMS Territory — Technical Documentation](https://github.com/ekatmoz88-alt/ppo-territory-archive)** — a separate documentation workstream for the Territory project.
+- **[API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)** — REST API documentation, OpenAPI 3.1, SOAP case studies, validation, and publishing workflows.
+- **[Technical Writing Portfolio](https://github.com/ekatmoz88-alt/technical-writing-portfolio)** — a simulated Orders API documentation exercise covering API references, developer guides, errors, and webhooks.
 
-## Featured Projects
-
-### API Documentation Portfolio
-A documentation portal demonstrating API documentation, OpenAPI specifications, validation, and automated publishing.
-
-[View live OpenAPI documentation](https://ekatmoz88-alt.github.io/api-docs-portfolio-v2/openapi/) · [View repository](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)
-
-### Technical Writing Portfolio
-A simulated Orders API project featuring API references, developer guides, error handling, webhooks, and documentation workflows.
-
-[View live site](https://ekatmoz88-alt.github.io/technical-writing-portfolio/) · [View repository](https://github.com/ekatmoz88-alt/technical-writing-portfolio)
-
-### Fintech Documentation Demo
-A simulated fintech project with user flows, KYC/onboarding documentation, audit logs, and data classification.
-
-[View live site](https://ekatmoz88-alt.github.io/fintech-docs-demo/) · [View repository](https://github.com/ekatmoz88-alt/fintech-docs-demo)
-
-### Technical Writing Workflows
-A Docs-as-Code pipeline with automated OpenAPI validation, Markdown linting and link checking.
-
-[View live site](https://ekatmoz88-alt.github.io/technical-writing-workflows/) · [View repository](https://github.com/ekatmoz88-alt/technical-writing-workflows)
-
-### ADP201P4 Hardware Documentation
-Source-based documentation for a DSP signal-processing module, including system architecture and hardware interfaces.
-
-[View live site](https://ekatmoz88-alt.github.io/adp201p4-hardware-spec/) · [View repository](https://github.com/ekatmoz88-alt/adp201p4-hardware-spec)
+Project boundaries are intentional: each repository documents its own system or portfolio exercise. Demonstration models are identified as such and are not presented as verified production architectures.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ekatmoz88/)
-- [GitHub](https://github.com/ekatmoz88-alt)
+- **[LinkedIn](https://www.linkedin.com/in/kate-motsar-b56974267/)**
+- **[Portfolio Dashboard](https://github-profile-dashboard-vite.vercel.app/)**
+- **[GitHub repositories](https://github.com/ekatmoz88-alt?tab=repositories)**
 
-*Open to Technical Writer, API Technical Writer, and Documentation Engineer opportunities.*
+Open to Senior Technical Writer, API Technical Writer, Developer Documentation, and Documentation Engineering opportunities.
