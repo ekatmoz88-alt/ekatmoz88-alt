@@ -25,7 +25,7 @@ I create structured, developer-focused documentation for software products, APIs
 - **[API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)** — REST API documentation, OpenAPI 3.1, SOAP case studies, validation, and publishing workflows.
 - **[Technical Writing Portfolio](https://github.com/ekatmoz88-alt/technical-writing-portfolio)** — additional documentation for the real deployed Orders API, covering API references, developer guides, errors, and webhooks.
 
-Project boundaries are intentional: each repository documents its own real system or project workstream. Historical deployment and operating context are retained; analytical or target-design artefacts are distinguished from implemented components.
+Project boundaries are intentional: each repository documents its own real system or project workstream. System deployments took place in their respective target/server environments, not on the personal documentation laptop. Historical operating context is retained; analytical or target-design artefacts are distinguished from implemented components.
 
 ## Connect
 
