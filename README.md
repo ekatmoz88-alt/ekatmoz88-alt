@@ -23,9 +23,9 @@ I create structured, developer-focused documentation for software products, APIs
 - **[ARM Descriptor — Technical Documentation](https://github.com/ekatmoz88-alt/descriptor-arm-spec)** — a separate documentation workstream for the ARM Descriptor project.
 - **[FMS Territory — Technical Documentation](https://github.com/ekatmoz88-alt/ppo-territory-archive)** — a separate documentation workstream for the Territory project.
 - **[API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2)** — REST API documentation, OpenAPI 3.1, SOAP case studies, validation, and publishing workflows.
-- **[Technical Writing Portfolio](https://github.com/ekatmoz88-alt/technical-writing-portfolio)** — a simulated Orders API documentation exercise covering API references, developer guides, errors, and webhooks.
+- **[Technical Writing Portfolio](https://github.com/ekatmoz88-alt/technical-writing-portfolio)** — additional documentation for the real deployed Orders API, covering API references, developer guides, errors, and webhooks.
 
-Project boundaries are intentional: each repository documents its own system or portfolio exercise. Demonstration models are identified as such and are not presented as verified production architectures.
+Project boundaries are intentional: each repository documents its own real system or project workstream. Historical deployment and operating context are retained; analytical or target-design artefacts are distinguished from implemented components.
 
 ## Connect
 
